@@ -13,4 +13,4 @@ The default solver is [SCS](https://github.com/cvxgrp/scs).
 
 ## License
 
-MIT license - See [LICENSE.md](LICENSE.md)
+MIT license - See [LICENSE.md](LICENSE)
